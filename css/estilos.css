@@ -1,0 +1,28 @@
+#div_motivos{
+	border: 1px solid #000000;
+	border-radius: 9px;
+}
+#div_folio{
+	border: 1px solid #000000;
+	border-radius: 9px;
+}
+#valido{
+	
+	border: 1px solid #000000;
+	border-radius: 9px;
+}
+div{
+margin-bottom: 2px;
+}
+
+#buttom{
+	display:none;
+}
+@media print {
+#top{
+	margin-bottom: 25px;
+}	
+#buttom{
+display:block;
+}
+}
